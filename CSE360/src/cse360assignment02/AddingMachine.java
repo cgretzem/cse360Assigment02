@@ -2,6 +2,7 @@ package cse360assignment02;
 /**
  * A class that is able to get the total, add, and subtract. Includes a toString
  * @author Cooper Gretzema
+ * @link https://github.com/cgretzem/cse360Assigment02/tree/master/CSE360/src/cse360assignment02
  */
 public class AddingMachine {
   private int total;
